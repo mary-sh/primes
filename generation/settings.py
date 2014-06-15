@@ -1,0 +1,3 @@
+# -*- coding: utf-8 -*-
+INTERVAL_LENGTH = 1000
+MAX_GENERATORS_COUNT = 10
