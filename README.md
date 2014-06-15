@@ -1,0 +1,4 @@
+primes
+======
+
+Prime numbers factory
